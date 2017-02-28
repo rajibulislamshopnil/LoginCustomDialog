@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Custom Dialog</string>
+    <string name="success_msg" />
+    <string name="success_login_msg" />
+    <string name="success_err_msg" />
+    <string name="err_login_msg">Please fill any empty fields</string>
+    <string name="succes_login_msg">Login Successful</string>
+</resources>
